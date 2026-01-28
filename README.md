@@ -19,3 +19,7 @@ Estudio Desarrollo de Aplicaciones Web en el IES Ana Luisa Benítez.
 - Proyecto 1
 - Proyecto 2
 - Proyecto 3
+
+## Contacto
+- Email: p.coca.acuna@gmail.com
+- GitHub: https://github.com/paula-coca101
